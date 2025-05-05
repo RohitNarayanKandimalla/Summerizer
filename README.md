@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 3️⃣ Run the application:
 
-python advanced_summarizer.py
+python sum.py
 
 ➡️ Use the "Select File" button to browse and load your .txt   file.
 
